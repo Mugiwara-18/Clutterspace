@@ -1,4 +1,4 @@
-const CACHE = "idea-library-v3";
+const CACHE = "idea-library-v4";
 const ASSETS = ["/", "/index.html", "/config.js", "/manifest.webmanifest", "/icon-192.png", "/icon-512.png"];
 
 self.addEventListener("install", (e) => {
